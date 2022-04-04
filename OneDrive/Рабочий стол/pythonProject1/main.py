@@ -16,7 +16,7 @@ mycursor.execute(query_4)
 query_5 = "drop table users"
 mycursor.execute(query_5)
 query_6 = "SHOW DATABASES LIKE 'table_for_join'"
-# mycursor.execute(query_5)
+
 
 
 
